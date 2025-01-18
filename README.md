@@ -28,7 +28,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,sass,html,css,c,flutter,mysql,python,vue,photoshop&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,sass,html,css,c,mysql,python,kotlin,photoshop&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
@@ -39,9 +39,10 @@
 </div>
 
 ## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=batuhansalkim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=batuhansalkim&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 📈 Contribution Graph
