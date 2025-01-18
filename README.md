@@ -37,12 +37,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=batuhansalkim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansalkim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
+
+
 ## 🔥 GitHub Streak Stats
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Batuhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhansalkim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=batuhansalkim&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 
 ## 📈 Contribution Graph
