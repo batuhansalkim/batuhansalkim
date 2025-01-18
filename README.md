@@ -38,13 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansalkim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
-## 🔥 Contribution Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=batuhansalkim&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=batuhansalkim&theme=dark&background=000000&border=30363D&stroke=30363D&ring=FF8623&fire=FF8623&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=666666)](https://git.io/streak-stats)
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhansalkim&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
