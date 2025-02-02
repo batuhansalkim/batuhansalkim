@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Batuhan;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate developer crafting web experiences</h3>
+<h3 align="center">A passionate developer crafting web,mobile experiences</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" />
