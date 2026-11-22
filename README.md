@@ -24,16 +24,16 @@ Most of my production work lives in private repositories. What you see here are 
 
 #### AI Engineering
 
-**🖥️ AI Product Engineering**: Next.js admin panels with AI chat, reports, charts, notifications and action approvals. I own the product experience end to end.
-- **Operations Intelligence** *(private)*: operations dashboard with a risk center, regional reports, prioritized actions and an AI assistant that only answers from system data and shows the basis for every answer. Next.js · Prisma · Zod · Recharts
-- **AI Lead Engine** *(private)*: internal sales intelligence platform with a daily sales queue, CRM and Excel export. Next.js · NestJS · Prisma
+These days I'm mostly building AI-native products. Here's what I work on:
 
-**🧠 Applied AI Engineering**: getting LLMs to use company data correctly: RAG, embeddings, structured outputs, data analysis and reporting, and measuring how accurate AI results are.
-- **AI Lead Engine**: collects business data, runs technical analysis (SEO, performance, security), then Gemini turns the raw metrics into structured insights, an Opportunity Score and a Revenue Score. Unverifiable data is marked as unknown instead of guessed.
-- **AI Visa Guide**: Gemini-generated, personalized document checklists for 190+ countries.
+**🖥️ AI Product Engineering**<br/>
+Next.js admin panels with AI chat, reports, charts, notifications and action approvals. I own the product experience from start to finish.
 
-**🤖 AI Agent Engineering**: agents with API tools that request the data they need, plan multi-step tasks, talk to other systems and take actions only after approval.
-- **AI Lead Engine**: drafts personalized outreach (email, LinkedIn, call notes) and recommends who to contact with reasoning. Nothing is sent without human approval.
+**🧠 Applied AI Engineering**<br/>
+Getting LLMs to use company data correctly. I work with RAG pipelines, embeddings, structured outputs and AI-driven data analysis and reporting, and I measure how accurate the AI results are.
+
+**🤖 AI Agent Engineering**<br/>
+Agents that use API tools: they request the data they need, plan multi-step tasks, talk to other systems and take actions only after human approval.
 
 ---
 
