@@ -23,6 +23,15 @@ Most of my production work lives in private repositories. What you see here are 
 
 ---
 
+#### Open Source Contributions
+
+<img src="assets/expo.png" width="18" align="center" alt="Expo" />&nbsp; **[Expo](https://github.com/expo/expo)**: [fixed `appendScheme` / `removeScheme` crashing on URL types without `CFBundleURLSchemes`](https://github.com/expo/expo/pull/52088) <sub>merged</sub><br/>
+<img src="assets/threejs.png" width="18" align="center" alt="three.js" />&nbsp; **[three.js](https://github.com/mrdoob/three.js)**: [fixed the blit region in `copyTextureToTexture()`](https://github.com/mrdoob/three.js/pull/35167) <sub>merged</sub><br/>
+<img src="assets/react.png" width="18" align="center" alt="React" />&nbsp; **[React](https://github.com/react/react)**: [copy `altitudeAngle` and `azimuthAngle` onto synthetic pointer events](https://github.com/react/react/pull/37972) <sub>in review</sub><br/>
+<img src="assets/langchain.png" width="18" align="center" alt="LangChain" />&nbsp; **[LangChain.js](https://github.com/langchain-ai/langchainjs)**: [respect `stripNewLines` in `GoogleGenerativeAIEmbeddings`](https://github.com/langchain-ai/langchainjs/pull/12020) <sub>in review</sub>
+
+---
+
 #### AI Engineering
 
 These days I'm mostly building AI-native products. Here's what I work on:
