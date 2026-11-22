@@ -6,10 +6,19 @@ I build web and mobile products end to end with TypeScript: React and Next.js on
 
 Most of my production work lives in private repositories. What you see here are side projects and experiments.
 
-- 📱 **5 apps shipped** to the App Store, from product design through release
+- 📱 **8 apps shipped** to the App Store, from product design through release
 - 🎓 Built a campus meal platform that served **2,000+ active students** and **560K+ page views** over two years
-- 🏆 **TEKNOFEST 2025** Blockchain Competition finalist · Anadolu Group Bi'Fikir finalist · Hackathon runner-up (2024)
-- 🏢 Previously at **Jotform** (App Builder) and **Aras Kargo**
+
+#### Achievements
+
+<img src="assets/teknofest.png" width="18" align="center" alt="TEKNOFEST" />&nbsp; **TEKNOFEST 2025**: Blockchain Competition finalist<br/>
+<img src="assets/anadolugrubu.png" width="18" align="center" alt="Anadolu Group" />&nbsp; **Anadolu Group Bi'Fikir**: finalist (project matched with Migros)<br/>
+🥈&nbsp; **Hackathon**: runner-up (2024)
+
+#### Experience
+
+<img src="assets/jotform.png" width="18" align="center" alt="Jotform" />&nbsp; **Jotform**: React Developer, App Builder team<br/>
+<img src="assets/araskargo.png" width="18" align="center" alt="Aras Kargo" />&nbsp; **Aras Kargo**: React Developer
 
 ---
 
@@ -37,7 +46,7 @@ Most of my production work lives in private repositories. What you see here are 
 | [**Galaksi Kaşifi**](https://github.com/batuhansalkim/galaksi-kasifi) | Physics-based mobile game rendered with Skia | React Native · Skia · Matter.js |
 | [**Law Notes Platform**](https://github.com/batuhansalkim/law-notes-platform) | Open platform where law students share and read course notes (PDF viewer, auth) | Next.js · Prisma · NextAuth |
 
-Other iOS apps I've shipped: **SplitEasy**, **MathPulse**, **Fibo**, **RingLock**.
+Other iOS apps I've shipped include **SplitEasy**, **MathPulse**, **Fibo** and **RingLock**.
 
 ---
 
