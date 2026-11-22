@@ -17,6 +17,7 @@ Most of my production work lives in private repositories. What you see here are 
 
 #### Experience
 
+<img src="assets/optade.png" width="18" align="center" alt="Optade" />&nbsp; **Optade**: Full Stack Developer <sub>(current)</sub><br/>
 <img src="assets/jotform.png" width="18" align="center" alt="Jotform" />&nbsp; **Jotform**: React Developer, App Builder team<br/>
 <img src="assets/araskargo.png" width="18" align="center" alt="Aras Kargo" />&nbsp; **Aras Kargo**: React Developer
 
