@@ -1,65 +1,50 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Batuhan;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
-</div>
+### Hi, I'm Batuhan 👋
 
-<h3 align="center">A passionate developer crafting web,mobile experiences</h3>
+**Full Stack Engineer · React Native · AI-Powered Applications**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" />
-</div>
+I build web and mobile products end to end with TypeScript: React and Next.js on the web, React Native (Expo) on mobile, Node.js on the backend. Lately most of my work is **bringing LLMs and computer vision into real products**: AI service integrations, prompt design and structured outputs, image processing and model training pipelines.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuhansalkim&label=Profile%20views&color=0e75b6&style=flat" alt="batuhansalkim" />
-</p>
+Most of my production work lives in private repositories. What you see here are side projects and experiments.
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=batuhansalkim&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="trophies" />
-  </a>
-</p>
-
-## 👨‍💻 About Me
-- 🔭 I'm currently working on **MERN Stack Development**
-- 🌱 I'm currently learning **Next.js and Advanced React Patterns**
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/batuhansalkim?tab=repositories)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/batuhanslkmm/)
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,sass,html,css,c,mysql,python,kotlin,photoshop&perline=8" />
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuhansalkim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansalkim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-
-## 🔥 GitHub Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=batuhansalkim&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhansalkim&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/batuhanslkmm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Add other social media badges as needed -->
-</p>
+- 📱 **5 apps shipped** to the App Store, from product design through release
+- 🎓 Built a campus meal platform that served **2,000+ active students** and **560K+ page views** over two years
+- 🏆 **TEKNOFEST 2025** Blockchain Competition finalist · Anadolu Group Bi'Fikir finalist · Hackathon runner-up (2024)
+- 🏢 Previously at **Jotform** (App Builder) and **Aras Kargo**
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+#### Tech Stack
+
+| | |
+|---|---|
+| **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![LLM](https://img.shields.io/badge/LLM_Integration-111111?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+---
+
+#### Selected Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AI Visa Guide** · App Store | Checks visa requirements for 190+ countries and generates personalized, AI-backed document checklists | React Native · TypeScript · Gemini API |
+| [**KYK & Campus Meals**](https://github.com/batuhansalkim/kyk_yemek_kahvalti) · [live](https://kyk-yemek-kahvalti.vercel.app) | Daily meal menus for dorm and campus students. 2,000+ active users, 560K+ page views | React · Firebase |
+| [**Dijital Bahçem**](https://github.com/batuhansalkim/DijitalBahcemTekno) | TEKNOFEST 2025 finalist. Mobile app combining maps, BLE/NFC device pairing and on-chain records via a Web3 wallet | React Native · Expo · ethers.js · WalletConnect |
+| [**SplitBill**](https://github.com/batuhansalkim/SplitBill) | Restaurant app with QR-based ordering, bill splitting and real-time order tracking | React Native · Expo · TypeScript · Zustand |
+| [**Galaksi Kaşifi**](https://github.com/batuhansalkim/galaksi-kasifi) | Physics-based mobile game rendered with Skia | React Native · Skia · Matter.js |
+| [**Law Notes Platform**](https://github.com/batuhansalkim/law-notes-platform) | Open platform where law students share and read course notes (PDF viewer, auth) | Next.js · Prisma · NextAuth |
+
+Other iOS apps I've shipped: **SplitEasy**, **MathPulse**, **Fibo**, **RingLock**.
+
+---
+
+<p>
+  <a href="https://batuhansalkim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/batuhanslkmm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@batuhansalkimm"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+<sub>I write on Medium about APIs, system design, scalability and AI/LLMs. Open to interesting problems and collaborations.</sub>
